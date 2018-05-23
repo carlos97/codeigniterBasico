@@ -2,10 +2,12 @@
 <html lang="en-US">
 <head>
     <meta charset="utf-8">
+    <link rel="stylesheet" href="<?php echo base_url("assets/bootstrap/css/bootstrap.css"); ?>" />
     <title><?php echo $title; ?></title>
 </head>
 <body>
-
+    
+    
                 <table class="table table-striped">
                     <thead>
                         <tr>
